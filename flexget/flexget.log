@@ -1,0 +1,349 @@
+2024-08-01 12:47:31 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:47:31 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:47:31 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:47:39 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:47:39 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:47:39 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:47:46 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:47:46 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:47:46 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:47:54 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:47:54 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:47:54 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:48:02 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:48:02 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:48:02 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:48:10 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:48:10 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:48:10 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:48:20 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:48:20 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:48:20 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:48:33 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:48:33 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:48:33 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:48:53 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:48:53 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:48:53 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:49:26 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:49:26 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:49:26 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:50:24 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:50:24 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:50:24 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:51:31 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:51:31 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:51:31 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:52:38 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:52:38 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:52:38 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:53:44 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:53:44 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:53:44 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:54:51 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:54:51 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:54:51 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:55:58 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:55:58 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:55:58 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:57:05 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:57:05 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:57:05 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:58:12 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:58:12 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:58:12 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 12:59:19 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:59:19 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 12:59:19 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:00:26 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:00:26 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:00:26 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:01:33 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:01:33 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:01:33 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:02:40 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:02:40 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:02:40 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:03:47 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:03:47 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:03:47 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:04:54 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:04:54 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:04:54 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:06:01 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:06:01 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:06:01 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:07:08 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:07:08 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:07:08 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:08:14 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:08:14 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:08:14 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:09:21 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:09:21 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:09:21 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:10:28 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:10:28 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:10:28 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:11:35 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:11:35 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:11:35 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:12:42 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:12:42 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:12:42 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:13:49 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:13:49 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:13:49 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:14:56 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:14:56 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:14:56 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:16:03 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:16:03 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:16:03 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:17:10 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:17:10 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:17:10 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:18:17 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:18:17 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:18:17 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:19:24 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:19:24 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:19:24 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:20:31 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:20:31 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:20:31 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:21:38 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:21:38 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:21:38 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:22:45 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:22:45 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:22:45 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:23:52 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:23:52 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:23:52 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:24:59 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:24:59 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:24:59 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:26:06 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:26:06 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:26:06 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:27:13 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:27:13 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:27:13 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:28:20 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:28:20 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:28:20 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:29:27 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:29:27 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:29:27 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:30:34 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:30:34 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:30:34 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:31:41 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:31:41 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:31:41 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:32:48 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:32:48 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:32:48 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:33:55 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:33:55 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:33:55 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:35:02 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:35:02 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:35:02 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:36:09 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:36:09 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:36:09 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:37:15 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:37:15 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:37:15 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:38:22 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:38:22 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:38:22 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:39:29 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:39:29 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:39:29 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:40:36 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:40:36 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:40:36 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:41:43 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:41:43 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:41:43 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:42:50 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:42:50 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:42:50 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:43:57 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:43:57 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:43:57 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:45:04 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:45:04 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:45:04 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:46:11 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:46:11 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:46:11 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:47:18 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:47:18 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:47:18 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:48:25 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:48:25 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:48:25 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:49:32 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:49:32 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:49:32 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:50:39 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:50:39 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:50:39 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:51:46 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:51:46 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:51:46 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:52:53 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:52:53 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:52:53 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:54:00 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:54:00 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:54:00 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:55:07 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:55:07 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:55:07 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:56:15 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:56:15 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 13:56:15 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 13:57:28 INFO     web_server_daemon                 Running web server at IP 0.0.0.0:5050
+2024-08-01 13:57:28 INFO     web_server_daemon                 Initiating API
+2024-08-01 13:57:28 INFO     web_server_daemon                 Registering WebUI v2
+2024-08-01 13:57:28 INFO     web_server                    Web server started at http://172.18.0.3:5050
+2024-08-01 13:57:28 INFO     web_server                    API available at http://172.18.0.3:5050/api
+2024-08-01 13:57:28 INFO     web_server                    WebUI (v2) available at http://172.18.0.3:5050/
+2024-08-01 13:57:28 INFO     scheduler                     Starting scheduler
+2024-08-01 13:58:30 INFO     exec          sort_movies     Stdout: mkdir: cannot create directory ‘/storage/pelis’: Permission denied
+2024-08-01 14:17:48 INFO     manager                       Got SIGTERM. Shutting down.
+2024-08-01 14:17:48 INFO     web_server                    Shutting down web server
+2024-08-01 14:17:56 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:17:56 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:17:56 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:18:03 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:03 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:03 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:18:10 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:10 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:10 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:18:17 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:17 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:17 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:18:25 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:25 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:25 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:18:33 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:33 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:33 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:18:43 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:43 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:43 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:18:57 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:57 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:18:57 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:19:17 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:19:17 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:19:17 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:19:49 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:19:49 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:19:49 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:20:47 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:20:47 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:20:47 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:21:54 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:21:54 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:21:54 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:23:01 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:23:01 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:23:01 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:24:08 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:24:08 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:24:08 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:25:15 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:25:15 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:25:15 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:26:22 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:26:22 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:26:22 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:27:29 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:27:29 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:27:29 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:28:36 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:28:36 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:28:36 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:29:43 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:29:43 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:29:43 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:30:50 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:30:50 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:30:50 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:31:57 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:31:57 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:31:57 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:33:04 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:33:04 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:33:04 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:34:11 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:34:11 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:34:11 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:35:18 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:35:18 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:35:18 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:36:25 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:36:25 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:36:25 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:37:31 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:37:31 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:37:31 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:38:38 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:38:38 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:38:38 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:39:45 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:39:45 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:39:45 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:40:52 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:40:52 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:40:52 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:41:59 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:41:59 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:41:59 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:43:06 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:43:06 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:43:06 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:44:13 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:44:13 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:44:13 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:45:20 CRITICAL manager                       [/tasks/sort_movies/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:45:20 CRITICAL manager                       [/tasks/sort_tv/filesystem/path] `/downloads/complete` does not exist
+2024-08-01 14:45:20 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2024-08-01 14:46:19 INFO     web_server_daemon                 Running web server at IP 0.0.0.0:5050
+2024-08-01 14:46:19 INFO     web_server_daemon                 Initiating API
+2024-08-01 14:46:19 INFO     web_server_daemon                 Registering WebUI v2
+2024-08-01 14:46:19 INFO     web_server                    Web server started at http://172.18.0.5:5050
+2024-08-01 14:46:19 INFO     web_server                    API available at http://172.18.0.5:5050/api
+2024-08-01 14:46:19 INFO     web_server                    WebUI (v2) available at http://172.18.0.5:5050/
+2024-08-01 14:46:19 INFO     scheduler                     Starting scheduler
+2024-08-01 14:46:19 INFO     manager       eztvrss         Running database cleanup.
+2024-08-01 14:46:19 INFO     db_analyze    eztvrss         Running ANALYZE on database to improve performance.
+2024-08-01 14:46:19 INFO     db_vacuum     eztvrss         Running VACUUM on database to improve performance and decrease db size.
+2024-08-01 14:46:57 INFO     exec          sort_movies     Stdout: mkdir: cannot create directory ‘/storage/pelis’: Permission denied
+2024-08-01 14:51:55 INFO     manager                       Got SIGTERM. Shutting down.
+2024-08-01 14:51:55 INFO     web_server                    Shutting down web server
+2024-08-01 14:52:13 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2024-08-01 14:52:13 VERBOSE  filesystem    sort_movies     Starting to scan folders.
+2024-08-01 14:52:13 VERBOSE  filesystem    sort_movies     Scanning folder /downloads/complete. Recursion is set to True.
+2024-08-01 14:52:13 VERBOSE  details       sort_movies     Produced 1 entries.
+2024-08-01 14:52:13 VERBOSE  task          sort_movies     REJECTED: `Interstellar.2014.720p.BluRay.x264.YIFY` by seen plugin because entry with title `Interstellar.2014.720p.BluRay.x264.YIFY` is already marked seen in the task sort_movies at 2024-08-01 14:46
+2024-08-01 14:52:13 VERBOSE  details       sort_movies     Summary - Accepted: 0 (Rejected: 1 Undecided: 0 Failed: 0)
+2024-08-01 14:52:16 INFO     web_server_daemon                 Running web server at IP 0.0.0.0:5050
+2024-08-01 14:52:16 INFO     web_server_daemon                 Initiating API
+2024-08-01 14:52:16 INFO     web_server_daemon                 Registering WebUI v2
+2024-08-01 14:52:16 INFO     web_server                    Web server started at http://172.20.0.5:5050
+2024-08-01 14:52:16 INFO     web_server                    API available at http://172.20.0.5:5050/api
+2024-08-01 14:52:16 INFO     web_server                    WebUI (v2) available at http://172.20.0.5:5050/
+2024-08-01 14:52:16 INFO     scheduler                     Starting scheduler
+2024-08-05 15:27:29 INFO     transmission  remove_stale_torrents purged Shutter.Island.720p.2010 from transmission
+2024-08-08 14:57:28 INFO     manager       eztvrss         Running database cleanup.
+2024-08-08 14:57:28 INFO     db_analyze    eztvrss         Running ANALYZE on database to improve performance.
+2024-08-09 08:57:29 INFO     transmission  remove_stale_torrents purged Deadpool.and.Wolverine.2024.HDCAM.c1nem4.x264-SUNSCREEN[TGx] from transmission

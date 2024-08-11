@@ -1,0 +1,175 @@
+---
+# Homepage configuration
+# See https://fontawesome.com/v6/search for icons options
+
+title: "LpzCloud"
+subtitle: "lpzcloud.duckdns.org"
+logo: "/assets/icons/lion.png"
+# icon: "fas fa-skull-crossbones" # Optional icon
+
+header: true
+footer: '<p>Created with <span class="has-text-danger">❤️</span>'
+# Optional theme customization
+theme: default
+
+# Optional theme customization (color overrrides)
+# overrrides can also be done using CSS vars
+colors:
+  light:
+    highlight-primary: "#212f3c"
+    highlight-secondary: "#34495e"
+    highlight-hover: "#85929e"
+    background: "#f5f5f5"
+    card-background: "#ffffff"
+    text: "#363636"
+    text-header: "#ffffff"
+    text-title: "#303030"
+    text-subtitle: "#424242"
+    card-shadow: rgba(0, 0, 0, 0.1)
+    link: "#3273dc"
+    link-hover: "#363636"
+  dark:
+    highlight-primary: "#212f3c"
+    highlight-secondary: "#34495e"
+    highlight-hover: "#85929e"
+    background: "#131313"
+    card-background: "#2b2b2b"
+    text: "#eaeaea"
+    text-header: "#ffffff"
+    text-title: "#fafafa"
+    text-subtitle: "#f5f5f5"
+    card-shadow: rgba(0, 0, 0, 0.4)
+    link: "#3273dc"
+    link-hover: "#ffdd57"
+
+# Optional message
+#message:
+  #url: https://b4bz.io
+#  style: "is-dark" # See https://bulma.io/documentation/components/message/#colors for styling options.
+#  title: "Demo !"
+# icon: "fa fa-grin"
+#  content: "This is a dummy homepage demo. <br /> Find more information on <a href='https://github.com/bastienwirtz/homer'>github.com/bastienwirtz/homer</a>"
+
+# Optional navbar
+# links: [] # Allows for navbar (dark mode, layout, and search) without any links
+links:
+  - name: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/daviilpzDev"
+    target: "_blank" # optional html a tag target attribute
+  - name: "Wiki"
+    icon: "fas fa-book"
+    url: "https://www.wikipedia.org/"
+    target: "_blank"
+  # this will link to a second homer page that will load config from additional-page.yml and keep default config values as in config.yml file
+  # see url field and assets/additional-page.yml.dist used in this example:
+  #- name: "another page!"
+  #  icon: "fas fa-file-alt"
+  #  url: "#additional-page"
+
+# Services
+# First level array represent a group.
+# Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
+services:
+  - name: "Aplicaciones"
+    icon: "fas fa-cloud"
+    items:
+      - name: "YouTube"
+        logo: "/assets/icons/youtube.ico"
+        subtitle: "videos"
+        url: "https://www.youtube.com/"
+        target: "_blank"
+      - name: "Twitch"
+        logo: "/assets/icons/twitch.ico"
+        subtitle: "directos"
+        url: "https://www.twitch.tv/"
+        target: "_blank"
+      - name: "Netflix"
+        logo: "/assets/icons/netflix.ico"
+        subtitle: "peliculas y series"
+        url: "https://www.netflix.com/browse"
+        target: "_blank"
+      - name: "Plex"
+        logo: "/assets/icons/plex.ico"
+        subtitle: "peliculas y series"
+        url: "http://192.168.100.151:32400/web/index.html"
+        target: "_blank"
+      - name: "Prime video"
+        logo: "/assets/icons/primevideo.ico"
+        subtitle: "peliculas y series"
+        url: "https://www.primevideo.com/?ref_=dvm_pds_amz_ES_lb_s_g|m_8iMAjVKac_c488100103104_s"
+        target: "_blank"
+      - name: "Aqui no hay quien viva"
+        logo: "/assets/icons/aqui_no_hay_quien_viva.jpg"
+        subtitle: "serie en reproduccion"
+        url: "https://www.primevideo.com/detail/0IE8SUDA4W1Z5J97WZOF6QM1UN/ref=atv_hm_hom_c_cjm7wb_6_1?jic=8%7CEgNhbGw%3D"
+        target: "_blank"
+
+  - name: "Aplicaciones de trabajo"
+    icon: "fa-solid fa-building"
+    items:
+      - name: "ChatGpt"
+        logo: "/assets/icons/chatgpt.png"
+        subtitle: "gpt ai"
+        url: "https://chatgpt.com/"
+        target: "_blank"
+      - name: "Jira"
+        logo: "/assets/icons/jira.ico"
+        subtitle: "gestion proyectos cd/ci"
+        url: "https://jirapplus.atlassian.net/jira/software/c/projects/BBB/boards/269"
+        target: "_blank"
+      - name: "Azure"
+        logo: "/assets/icons/azure.ico"
+        subtitle: "gestion proyectos git"
+        url: "https://appluscoderepository.visualstudio.com/Applus.BDD/_git/Applus.CIMSA2.BDD"
+        target: "_blank"
+      - name: "Woffu"
+        logo: "/assets/icons/Woffu.png"
+        subtitle: "gestion horario"
+        url: "https://alten.woffu.com/v2/personal/dashboard/user"
+        target: "_blank"
+      - name: "Outlook"
+        logo: "/assets/icons/outlook.ico"
+        subtitle: "correo electronico"
+        url: "https://outlook.office.com/mail/inbox/id/AAQkADQzODM5ZjM0LWY2OWMtNGRmOC1iMDczLWFhMGZkMzI0ZjVlYQAQAFTcPrEFAjpEmXeGBCXB%2FAo%3D"
+        target: "_blank"
+      - name: "Agresso"
+        logo: "/assets/icons/Unit4.jpg"
+        subtitle: "gestion del tiempo"
+        url: "https://agrm5web.altengroup.com/agresso/"
+        target: "_blank"
+
+  - name: "Herramientas"
+    icon: "fa-solid fa-wrench"
+    items:
+      - name: "Nextcloud"
+        logo: "/assets/icons/nextcloud.ico"
+        subtitle: "lpzcloud"
+        url: "http://192.168.100.151:8083"
+        target: "_blank"
+      - name: "Wireguard"
+        logo: "/assets/icons/wireguard.ico"
+        subtitle: "gestion vpn"
+        url: "http://192.168.100.151:51821"
+        target: "_blank"
+      - name: "Pihole"
+        logo: "/assets/icons/pihole.ico"
+        subtitle: "gestion anuncios"
+        url: "http://192.168.100.151:5353/admin/index.php"
+        target: "_blank"
+      - name: "Router"
+        logo: "/assets/icons/router.ico"
+        subtitle: "gestion router"
+        url: "http://192.168.100.1"
+        target: "_blank"
+      - name: "Transmission"
+        logo: "/assets/icons/transmission.png"
+        subtitle: "gestion torrents"
+        url: "http://192.168.100.151:9091"
+        target: "_blank"
+      - name: "The Pirate Bay"
+        logo: "/assets/icons/tpb.jpg"
+        subtitle: "descarga torrents"
+        url: "https://tpb.party/"
+        target: "_blank"
+ 
