@@ -61,9 +61,9 @@
      ntfs-3g
 --------
 - Instalar docker
-	curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
-	sudo apt-key fingerprint 0EBFCD88
-	echo "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list
+	curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/docker.gpg
+	gpg --show-keys --with-fingerprint /etc/apt/trusted.gpg.d/docker.gpg
+	echo "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 	sudo apt-get update
 	sudo apt-get install -y --no-install-recommends docker-ce docker-compose
 - Agregar tu usuario al grupo docker
